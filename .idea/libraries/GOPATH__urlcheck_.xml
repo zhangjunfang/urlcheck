@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;urlcheck&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../redis-stat" />
+      <root url="file://$PROJECT_DIR$/../../../test" />
+      <root url="file://$PROJECT_DIR$/../../../mymath" />
+      <root url="file://$PROJECT_DIR$/../../../mathapp" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../codis" />
+      <root url="file://$PROJECT_DIR$/../../../deploy" />
+      <root url="file://$PROJECT_DIR$/../../../beeblog" />
+      <root url="file://$PROJECT_DIR$/../../../myapp" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../redis-stat" />
+      <root url="file://$PROJECT_DIR$/../../../test" />
+      <root url="file://$PROJECT_DIR$/../../../mymath" />
+      <root url="file://$PROJECT_DIR$/../../../mathapp" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../codis" />
+      <root url="file://$PROJECT_DIR$/../../../deploy" />
+      <root url="file://$PROJECT_DIR$/../../../beeblog" />
+      <root url="file://$PROJECT_DIR$/../../../myapp" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
